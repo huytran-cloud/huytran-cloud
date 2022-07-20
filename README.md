@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as mentor at [MindX](https://mindx.edu.vn/)
 - 🌱 I’m currently learning ***ThreeJS*** and ***ReactJS***
-- 📫 How to reach me: [Facebook - Huy Trần](https://www.facebook.com/clown.coder/)
+- 📫 How to reach me: ***[Facebook - Huy Trần](https://www.facebook.com/clown.coder/)***
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Valorant
 
