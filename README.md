@@ -2,16 +2,17 @@
 
 ### Hello ! I'm Huy Tran 👋
 
-- 🔭 I’m currently working as mentor at [MindX](https://mindx.edu.vn/)
+- 🔭 I’m currently working as an Intern at ***[CyStack](https://mindx.edu.vn/)***
 - 🌱 I’m currently learning ***ThreeJS*** and ***ReactJS***
 - 📫 How to reach me: ***[Facebook - Huy Trần](https://www.facebook.com/clown.coder/)***
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Valorant
 
-### My Projects 🏁
+### My Jobs 🏁
 
-- **[HRFO Org](https://hrfowd.tk/)**
-- **[Vietcode](https://www.vietcode.org/)**
+- Mentor at **[MindX](https://mindx.edu.vn/)**
+- Head of Web Development at **[HRFO Org](https://hrfowd.tk/)**
+- Web developer at **[Vietcode](https://www.vietcode.org/)**
 
 ### My Stats 💪
 
