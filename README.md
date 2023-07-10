@@ -11,8 +11,8 @@
 ### My Jobs 🏁
 
 - Mentor at **[MindX](https://mindx.edu.vn/)**
-- Head of Web Development at **[HRFO Org](https://hrfowd.tk/)**
-- Web developer at **[Vietcode](https://www.vietcode.org/)**
+- Head of Web Development at **[HRFO Org](https://www.facebook.com/hrfo.org)**
+- Web developer at **[Vietcode](https://www.facebook.com/vietcode.org/?locale=vi_VN)**
 
 ### My Stats 💪
 
