@@ -1,4 +1,4 @@
-<img width="1000" height="400" display="block" margin-left="auto" margin-right="auto" src="https://th.bing.com/th/id/R.3c5e70d536a4c7ddd79f322185e0eb24?rik=OGr7A8D9X8uMZw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f2%2f3%2f9%2f333181.jpg&ehk=l0keUliggdKoD4eHNbPmParAU%2bY4I%2fxvCbn%2fPMaMpI4%3d&risl=&pid=ImgRaw&r=0">
+<img width="1000" height="400" display="block" margin-left="auto" margin-right="auto" src="https://media.istockphoto.com/id/160179168/photo/hanoi-cityscape.jpg?s=612x612&w=0&k=20&c=Dq7VYLj_a8xIYAls0Lj9SqKgnw604pjKu8KwwrGQLZg=">
 
 ### Hello ! I'm Huy Tran 👋
 
