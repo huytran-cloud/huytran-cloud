@@ -8,8 +8,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I play Valorant
 
-### My Jobs 🏁
+### My Jobs (previous and currently) 🏁
 
+- Intern at **[CyStack](https://cystack.net/)**
 - Mentor at **[MindX](https://mindx.edu.vn/)**
 - Head of Web Development at **[HRFO Org](https://www.facebook.com/hrfo.org)**
 - Web developer at **[Vietcode](https://www.facebook.com/vietcode.org/?locale=vi_VN)**
