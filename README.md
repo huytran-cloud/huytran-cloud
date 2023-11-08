@@ -2,6 +2,7 @@
 
 ### Hello ! I'm Huy Tran 👋
 
+- 🌏 Currently I'm living and working in Vietnam
 - 🔭 I’m currently working as an Intern at ***[CyStack](https://cystack.net/)***
 - 🌱 I’m currently learning ***Cyber Security***
 - 📫 How to reach me: ***[Facebook - Huy Trần](https://www.facebook.com/clown.coder/)***
