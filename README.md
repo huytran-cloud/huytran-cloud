@@ -1,4 +1,4 @@
-<img width="1000" height="400" display="block" margin-left="auto" margin-right="auto" src="https://media.istockphoto.com/id/160179168/photo/hanoi-cityscape.jpg?s=612x612&w=0&k=20&c=Dq7VYLj_a8xIYAls0Lj9SqKgnw604pjKu8KwwrGQLZg=">
+<img width="1000" height="400" display="block" margin-left="auto" margin-right="auto" src="https://www.nationalcorporatehousing.com/sites/default/files/styles/1000x400/public/cities/ho_chi_minh_city_vietnam2.jpg?itok=aLzv_zIB">
 
 ### Hello ! I'm Huy Tran 👋
 
